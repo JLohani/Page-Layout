@@ -1,0 +1,38 @@
+.data
+{
+text-align: right;
+margin-top: 20px;
+margin-right: 30px;
+
+}
+
+.paper 
+{
+  text-align: right;
+  position: absolute;
+  height: 550px;
+  width: 450px;
+  background: rgb(255,255,255);
+  margin: -250px -200px;
+  left: 20%;
+  top: 45%;
+  box-shadow: 0px 0px 5px;
+}
+
+.paper::before 
+{
+  content: '';
+  position: absolute;
+  left: 45px;
+  height: 100%;
+  width: 2px;
+  background: rgb(0,0,0);
+}
+
+.lines 
+{
+  margin-top: 20px;
+  height: calc(100% - 60px);
+  width: 100%;
+  background-image: repeating-linear-gradient(white 0px, white 24px, black 25px);
+}
