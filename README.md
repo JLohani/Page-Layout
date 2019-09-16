@@ -1,5 +1,5 @@
 # Page-Layout
-In this i have designed a layout thaat looks like a register/notebook page.
+In this i have designed a layout that looks like a register/notebook page.
 
 There are two folders:
 1. With CSS
