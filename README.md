@@ -3,7 +3,7 @@ In this i have designed a layout thaat looks like a register/notebook page.
 
 There are two folders:
 1. With CSS
--> In this i have created a notebook page with the heelp of CSS.
+-> This notebook page is created in HTML and CSS.
 
-2. Withput CSS
--> This notebook page is creaated in HTML purely. 
+2. Without CSS
+-> This notebook page is created in HTML purely. 
